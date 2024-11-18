@@ -1,1 +1,1 @@
-# Omeka-S-theme-Gestion_Formation
+# Omeka-S-theme-GestionFormation
